@@ -1,6 +1,6 @@
 <?php
 // replace with your url you got here : https://my.slack.com/services/new/incoming-webhook
-$INCOMING_WEBHOOK_URL = "https://hooks.slack.com/services/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";
+$INCOMING_WEBHOOK_URL = "https://github.com/casamarco/SlackGoogle/blob/master/google.php";
 $USERNAME = "Y U NO GOOGLE GOD DAMNIT?";
 $ICON = ":troll:";
 $text = $_POST['text'];
